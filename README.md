@@ -4,6 +4,12 @@
 
 **VGDB** is a personal fullstack project designed to help me better understand software development. This project includes both a **backend** and a **frontend** that work together to provide a platform for managing game data and reviews.
 
+![VGDB Home](https://github.com/user-attachments/assets/8271c646-ddf2-4a91-8957-a817cbdffd05)
+![VGDB Game](https://github.com/user-attachments/assets/30468d1f-5a93-45d3-9679-c02cde5d57a2)
+![VGDB Review](https://github.com/user-attachments/assets/63e175ab-f875-49ad-a4b3-a66fa600f002)
+
+
+
 ## Project Structure
 
 - **Backend**: Java, Maven, Spring Boot, MongoDB
